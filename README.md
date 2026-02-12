@@ -8,34 +8,61 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx7?label=版本)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx7/total?label=总下载量)
-[![Stars](https://img.shields.io/github/stars/ELFTS/wwgjx7?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiIGZpbGw9IiNlYWM1NGYiLz48L3N2Zz4=&logoSize=auto&label=收藏)](https://github.com/ELFTS/wwgjx7/)
+[![Stars](https://img.shields.io/github/stars/ELFTS/wwgjx7?style=flat&label=收藏)](https://github.com/ELFTS/wwgjx7/)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/wwgjx7?label=问题)
 
 </div>
 
 ---
 
-## 目前需要寻找贡献者
-
+## ⚠️ 注意
+最近有人抄袭了我们的工具箱，名字叫“万物妥工具箱”，内存占用不如万物工具箱小，界面不如万物工具箱好看，请大家不要下载
 ## ✉️ QQ交流群957042500
 这里是我们万物永存技术工作室的交流群，欢迎大家来唠嗑唠嗑～
-
 ## ℹ️ 关于诽谤者
 在此我善提菩提本体陈铠还有澜芸本体联合声明一下：我们有权不开源任何项目，除非经过允许，如今科技圈环境越来越差，难道你们忍心干着道德绑架的事情吗？之前我善提菩提也曾因为被诽谤万物工具箱下毒的问题去我们揭阳市新兴派出所报警过，但当时几个人他们并没有把我放在眼里，甚至连提供一下维权途径都是让我自己去想办法！这是一个派出所的警察会有的样子吗？
 
-## 📥 下载说明
-[Green]() 指绿色版
-[Setup]() 指安装版
-
 ## 🚀 安装
+- 请卸载旧版本后安装最新版本~
 - 双击安装包后点击“开始安装”
 - 接着安装进度条就会像喝了一杯昏睡红茶一样慢慢到达终点~
+
+## ⏫ 放在U盘
+- 下载绿色版后解压到U盘
 
 ## ♻️ 如何卸载
 <details>
   <summary>Windows 7 ~ 8.1</summary>
     
 </details>
+
+## 🔗 引用
+| 引用程序集                                                   | 作用       |
+| ----------------------------------------------------------- | ------  |
+| [EverythingUI.WPF](https://exuik.com/)                      | 界面库   |
+| []()| 硬件信息获取|
+
+## 赞助
+
+如果这个项目对你有帮助，欢迎赞助支持！
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a7daa815-b629-4045-8fc3-6ae8fda152a4" width="200" alt="微信支付"/>
+        <br/>
+        <sub>微信支付</sub>
+      </td>
+      <td width="50"></td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f9765ddc-03b9-4cb6-9ae8-ac2e9d7aeb46" width="200" alt="支付宝"/>
+        <br/>
+        <sub>支付宝</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 🌟 Star
 支持开发者的最简单方式是点击页面顶部的星标（⭐）
@@ -45,3 +72,7 @@
         <img alt="start" width=50% src="https://api.star-history.com/svg?repos=ELFTS/wwgjx7&Date"/>
     </a>
 </p>
+
+---
+
+**Copyright © 2021-2026 万物永存技术工作室**
