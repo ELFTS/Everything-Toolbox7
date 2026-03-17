@@ -39,7 +39,7 @@
 ## 🔗 引用
 | 引用程序集                                                   | 作用       |
 | ----------------------------------------------------------- | ------  |
-| [EverythingUI.WPF](https://exuik.com/)                      | 界面库   |
+| [EverythingUI.WPF](https://github.com/ELFTS/EverythingUI.WPF)                     | 原创界面库   |
 | []()| 硬件信息获取|
 
 ## 赞助
